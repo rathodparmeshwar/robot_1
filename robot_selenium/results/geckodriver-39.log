@@ -1,0 +1,10 @@
+1583087414954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqg2Oju"
+1583087415241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583087415263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583087415263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583087415263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583087415263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583087416781	Marionette	INFO	Listening on port 32771
+1583087416861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/app-23c86a0774.js, line 21: ReferenceError: OHRM is not defined
+1583087452601	Marionette	INFO	Stopped listening on port 32771

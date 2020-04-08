@@ -1,0 +1,41 @@
+1583015295198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehR39rW"
+1583015295564	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583015295590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583015295590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583015295590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583015295591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583015297609	Marionette	INFO	Listening on port 36015
+1583015297704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/app-23c86a0774.js, line 21: ReferenceError: OHRM is not defined
+1583015306365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:3:14904
+ajax@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:3:11559
+J._evalUrl@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:3:11945
+domManip@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:2:24110
+append@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:2:21823
+html/<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:2:23175
+J.access@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:2:6578
+html@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:2:22846
+link@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:8:7628
+z/<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:3:25740
+ve@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:30149
+h@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:22597
+a@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:18444
+B/<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:17975
+Q/<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:20626
+r@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:18938
+f@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:4:21068
+compile/</</<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:8:7130
+a@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:24703
+s/<@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:24876
+$eval@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:6:485
+$digest@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:31006
+$apply@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:6:768
+l@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:7179
+x@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:9106
+Rt/</C.onload@https://orangehrm-demo-6x.orangehrmlive.com/client/build/js/lib-c1aa6a2a25.js:5:9578
+1583015320813	Marionette	INFO	Stopped listening on port 36015

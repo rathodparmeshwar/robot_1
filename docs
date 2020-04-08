@@ -1,0 +1,38 @@
+Python Programming Interview Preparation.
+
+
+Robot Framework:
+    GET Request 
+    Post Request 
+    Advance Selenium Testing 
+    Writing Custom software for Testing
+
+performance testing tools:
+    JMeter
+
+Understanding :-
+    1) Stress testing
+    2) Functional/Regression testing,
+    3) Code coverage,
+    4) TDD/BDD,
+    5) UAT
+
+AWS:
+    sqs, ec2 , lamdda, sns, load balancers
+
+
+Working knowledge of VCS and Continous Integration server Jenkins.
+
+
+#Testing Notes
+
+Feasible Check of Test Environment 
+Create sameple test code 
+
+
+Stress Testing:
+    - To determine robustness of the system or software and its error handling in extreme conditions
+    - To determine the limit of the system or software
+    - To analyse its behaviour under extreme conditions and its exception handling
+    - Does the system recover after failure
+    
